@@ -1,7 +1,7 @@
 //Assignment 2 Code
 function test_print(){
 
-         console.log(“test code”)
+         console.log(“Test Code”)
 }
 
 $(function () {
